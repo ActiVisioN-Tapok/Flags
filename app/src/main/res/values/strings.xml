@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flags</string>
+
+    <string name="rus">Российский рубль</string>
+    <string name="afr">Южноафриканский рэнд</string>
+    <string name="sgp">Сингапурский Доллар</string>
+    <string name="trk">Турецкая Лира</string>
+    <string name="isr">Израильский Шекель</string>
+    <string name="jpn">Японская иена</string>
+    <string name="ger">Евро</string>
+
+    <string name="rub">RUR</string>
+    <string name="zar">ZAR</string>
+    <string name="sgd">SGD</string>
+    <string name="trl">TRY</string>
+    <string name="ill">ILL</string>
+    <string name="jpy">JPY</string>
+    <string name="eur">EUR</string>
+
+    <string name="msk">Москва</string>
+    <string name="cpt">Кейптаун</string>
+    <string name="sgr">Сингапур</string>
+    <string name="ank">Анкара</string>
+    <string name="irs">Иерусалим</string>
+    <string name="tky">Токио</string>
+    <string name="brl">Берлин</string>
+</resources>
